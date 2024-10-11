@@ -1,10 +1,6 @@
-# Couple Swapping Algorithms
+# Problem Solving Algorithms
 
-This repository contains three algorithms aimed at solving the "Couples Holding Hands" problem. Each algorithm minimizes the number of swaps required to ensure that all couples are sitting next to each other in a given row.
-
-## Problem Description
-
-Given an array `row` where row[i] is the id of the person sitting in the i-th seat, the people are arranged in pairs, and we need to ensure that couples (represented by consecutive integers) are seated next to each other. The goal is to minimize the number of swaps required to achieve this.
+This repository contains three algorithms aimed at solving different real-world problems, ranging from arranging pairs of persons to ensuring convenient group schedules. Each algorithm tackles a distinct problem and provides an efficient solution based on various computational techniques.
 
 ## Algorithms
 
