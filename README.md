@@ -4,6 +4,14 @@ This repository contains three algorithms aimed at solving different real-world 
 
 ## Algorithms
 
+1. Marcus Martin| CSUF email:
+
+2. Terry Pham | CSUF email:
+
+3. Christopher Contreras | CSUF email: cdc17507@csu.fullerton.edu
+
+## Algorithms
+
 ### Algorithm 1: Connection Pairs of Persons
 
 This algorithm minimizes the number of swaps by using a dictionary to map the position of each person in the row and then iteratively swapping people to ensure that couples are next to each other.
