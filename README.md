@@ -2,7 +2,7 @@
 
 This repository contains three algorithms aimed at solving different real-world problems, ranging from arranging pairs of persons to ensuring convenient group schedules. Each algorithm tackles a distinct problem and provides an efficient solution based on various computational techniques.
 
-## Algorithms
+## Group 4 CPSC 335
 
 1. Christopher Contreras | CSUF email: cdc17507@csu.fullerton.edu
 
