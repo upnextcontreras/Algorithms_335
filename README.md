@@ -4,11 +4,11 @@ This repository contains three algorithms aimed at solving different real-world 
 
 ## Algorithms
 
-1. Marcus Martin| CSUF email:
+1. Christopher Contreras | CSUF email: cdc17507@csu.fullerton.edu
 
-2. Terry Pham | CSUF email:
+2. Marcus Martin | CSUF email: 
 
-3. Christopher Contreras | CSUF email: cdc17507@csu.fullerton.edu
+3. Terry Pham | CSUF email: 
 
 ## Algorithms
 
