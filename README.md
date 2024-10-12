@@ -6,7 +6,7 @@ This repository contains three algorithms aimed at solving different real-world 
 
 1. Christopher Contreras | CSUF email: cdc17507@csu.fullerton.edu
 
-2. Marcus Martin | CSUF email: 
+2. Marcus Martin | CSUF email: mamartin456@csu.fullerton.edu
 
 3. Terry Pham | CSUF email: tearbear@csu.fullerton.edu
 
