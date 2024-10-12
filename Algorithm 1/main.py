@@ -1,3 +1,9 @@
+# Christopher Contreras
+# CPSC 335
+# Section 08
+# Github: upnextcontreras
+# cdc17507@csu.fullerton.edu
+
 def minSwapsCouples(row):
     # make the row of couple in half
     n = len(row) // 2
