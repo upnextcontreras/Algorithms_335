@@ -8,7 +8,7 @@ This repository contains three algorithms aimed at solving different real-world 
 
 2. Marcus Martin | CSUF email: 
 
-3. Terry Pham | CSUF email: 
+3. Terry Pham | CSUF email: tearbear@csu.fullerton.edu
 
 ## Algorithms
 
