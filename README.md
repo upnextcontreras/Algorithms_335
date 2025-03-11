@@ -18,3 +18,6 @@ This repository contains three algorithms aimed at solving different real-world 
 
 ### Algorithm 3: Ensuring Convenient Schedules
 
+## Disclaimer
+
+I am not maintaining this code; it is just for learning and educational purposes.
